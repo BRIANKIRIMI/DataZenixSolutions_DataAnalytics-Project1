@@ -15,6 +15,9 @@ In this project, I worked with a Retail Sales dataset to perform Exploratory Dat
 - Calculated mean, median, mode, and standard deviation for key numerical features.
 - Generated summary statistics for customer age, quantity, and sales.
 - Performed time-series analysis to identify monthly and seasonal sales patterns.
+
+---
+
 ## 📈 Visual Explorations & Insights
 - I created a variety of visualizations to uncover business trends:
 - Line Chart (Monthly Sales Trend) → Revealed peaks, seasonal spikes, and low-performing months.
