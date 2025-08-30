@@ -32,6 +32,8 @@ In this project, I worked with a Retail Sales dataset to perform Exploratory Dat
 - Gender Insights → Both male and female customers contributed strongly, with category preferences varying.
 - Revenue Drivers → Correlation between quantity and total amount highlighted key purchasing behavior.
 
+---
+
 ## 🛠 Tools & Techniques Used:
 ### The dashboard was built using the following tools and technologies:
 - Python (Jupyter Notebook) → For coding, analysis, and visualization.
@@ -54,12 +56,22 @@ In this project, I worked with a Retail Sales dataset to perform Exploratory Dat
 ## ✅ End Result: 
 A complete exploratory data analysis that delivered valuable insights into sales, customers, and products, supporting data-driven strategies for retail growth. This project showcases my analytical, technical, and storytelling skills in Python for real-world datasets.
 
+---
+
 ## 🔗 Connect
 ### 💼 LinkedIn: https://www.linkedin.com/in/abdullah-umar-730a622a8/
 ### 💼 Portfolio: https://linktr.ee/AbdullahUmar.DataAnalyst
 ### 📧 Email: umerabdullah048@gmail.com
 
+---
 
-### 6.	Screenshots / Demos
-Show what the Code and Output looks like.
+
+### Task Statement:-
+![Preview](https://github.com/Abdullah321Umar/DataZenixSolutions_DataAnalytics-Project1/blob/main/Task%201.png)
+
+
+---
+
+### Screenshots / Demos:-
+Show what the Code and Output look like.
 ![Preview](https://github.com/Abdullah321Umar/DataZenixSolutions_DataAnalytics-Project1/blob/main/Project-1(Code%2BOutput).ipynb)
